@@ -1,0 +1,15 @@
+csc435/app/SearchResult.class
+csc435/app/FileRetrievalBenchmark.class
+csc435/app/IndexStore.class
+csc435/app/DocFreqPair.class
+csc435/app/FileRetrievalServer.class
+csc435/app/DocPathFreqPair.class
+csc435/app/IndexWorker.class
+csc435/app/ClientProcessingEngine.class
+csc435/app/ClientAppInterface.class
+csc435/app/IndexResult.class
+csc435/app/ServerAppInterface.class
+csc435/app/ServerProcessingEngine.class
+csc435/app/Dispatcher.class
+csc435/app/BenchmarkWorker.class
+csc435/app/FileRetrievalClient.class
